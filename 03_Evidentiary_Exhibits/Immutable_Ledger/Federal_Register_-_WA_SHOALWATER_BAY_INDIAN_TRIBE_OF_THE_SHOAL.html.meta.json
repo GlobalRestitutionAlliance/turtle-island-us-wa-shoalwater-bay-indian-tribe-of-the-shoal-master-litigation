@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=WA+SHOALWATER+BAY+INDIAN+TRIBE+OF+THE+SHOAL",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=WA+SHOALWATER+BAY+INDIAN+TRIBE+OF+THE+SHOAL",
+  "title": "Federal Register - WA SHOALWATER BAY INDIAN TRIBE OF THE SHOAL",
+  "fetched_at": "2026-11-23T17:50:02.580180Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 104747,
+  "sha256": "14cf8ad5c1129e012df419631abcf612419862f13a0df7a53ea8ac6b0e3017f7",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
